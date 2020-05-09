@@ -15,7 +15,7 @@ int main()
     float ans;
     float ans2;
    // mg = mg+ 0.0000021474;
-    /*cout << "Enter mg: " << endl;;
+    cout << "Enter mg: " << endl;;
 
     cin >> mg;
     cout << "Enter r1(outer): " << endl;
@@ -30,7 +30,7 @@ int main()
     cin >> rho;
     cout << "Enter g(9.8): " << endl;
     cin >> g;
-  */  
+   
     //-------------------
 
     ans = (mg/(2*pi*(r1 + r2)))-(((r1 - r2)/2)*h*g*rho);
