@@ -14,10 +14,10 @@ int i = 1;
     float aa = 53.07111;
 
 
-    //cout << "Enter Radius of disk: " << endl;
-    //cin >> r;
-    //cout << "Enter aa: " << endl;
-    //cin >> aa;
+    cout << "Enter Radius of disk: " << endl;
+    cin >> r;
+    cout << "Enter aa: " << endl;
+    cin >> aa;
     cout << "Enter Mass of weights: " << endl;
     cin >> weight;
     cout << "Enter Time: " << endl;
