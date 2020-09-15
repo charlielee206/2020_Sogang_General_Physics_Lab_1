@@ -19,11 +19,11 @@ int i = 1;
 
     double error;
 
-    A = 0.008824733613; //r = 53mm
+    //A = 0.008824733613; //r = 53mm
     //A = 0.017671458; //r = 75mm
 
-    //cout << "Enter Area: " << endl;
-    //cin >> A;
+    cout << "Enter Area: " << endl;
+    cin >> A;
     cout << "Enter Distance(mm): " << endl;
     cin >> d;
     cout << "Enter Voltage(kv): " << endl;
