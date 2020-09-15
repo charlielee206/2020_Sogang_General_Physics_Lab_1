@@ -40,7 +40,7 @@ int i = 1;
 
     error = ((thv - exp)/thv)*100;
 
-    cout << "Thv: " << thv <<endl;   
+    cout << endl << "Thv: " << thv <<endl;   
     cout << "Exp: " << exp << endl<<endl;
     cout << "Error: " << error << "%" <<endl<<endl;
     cout << "Enter 1 to continue, 0 to exit."<<endl;
